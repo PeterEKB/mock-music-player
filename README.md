@@ -1,3 +1,3 @@
-# mock-music-player
+# **Mock Music Player**
 
-live demo: https://peterekb.github.io/mock-music-player/
+**live demo:** _https://peterekb.github.io/mock-music-player/_
